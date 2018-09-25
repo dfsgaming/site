@@ -1,0 +1,68 @@
+## Basic Configuration
+
+baseurl = "http://drunkinfools.com/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "DFS Gaming"
+title = "DFS Gaming"
+
+theme = "goa"
+
+## Hugo Built-in Features
+# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+# googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Drunkin' Fools"
+intro = "An Online Gaming Community"
+description = "Est. 2001"
+authorimage = "grenade.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Gaming Community"
+keywords = "dfs,gaming"
+
+## Social Accounts
+[params.social]
+#github = "<username>"
+#instagram = "<username>"
+#xing = "<username>"
+#linkedin = "<username>"
+#twitter = "<username>"
+#facebook = "<username>"
+youtube = "FoolsGamingGroup"
+#stackoverflow = "<username>"
+#email = "you@example.com"
+
+## Extras
+[params.extra]
+copyright = "© 2016. DFS Gaming." 
+poweredby = false
+highlightjs = true
+
+## Main Menu
+#[[menu.main]]
+#    name = "blog"
+#    weight = 100
+#    identifier = "blog"
+#    url = "/blog/"
+[[menu.main]]
+#    name = "about"
+#    identifier = "about"
+#    weight = 100
+#    url = "/about/"
+#[[menu.main]]
+#    name = "coderag"
+#    identifier = "coderag"
+#    weight = 300
+#    url = "/coderag/"

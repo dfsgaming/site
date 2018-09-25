@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://drunkinfools.com/pl/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://drunkinfools.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://drunkinfools.com/pl/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://drunkinfools.com/pl/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://drunkinfools.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://drunkinfools.com/pl/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://drunkinfools.com/pl/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://drunkinfools.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://drunkinfools.com/pl/tags/"
+                />
+  </url>
+  
+</urlset>
