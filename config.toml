@@ -34,7 +34,7 @@ keywords = "dfs,gaming"
 
 ## Social Accounts
 [params.social]
-#github = "<username>"
+github = "dfsgaming"
 #instagram = "<username>"
 #xing = "<username>"
 #linkedin = "<username>"
@@ -46,7 +46,7 @@ youtube = "FoolsGamingGroup"
 
 ## Extras
 [params.extra]
-copyright = "© 2016. DFS Gaming." 
+copyright = "© 2018. DFS Gaming." 
 poweredby = false
 highlightjs = true
 
